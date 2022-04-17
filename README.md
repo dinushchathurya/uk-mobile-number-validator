@@ -18,7 +18,6 @@
 <ol>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#translations">Translations</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#author">Author</a></li>
     <li><a href="#license">License</a></li>
@@ -37,14 +36,6 @@ Add the ```UK-mobilecode``` rule to the field you want to validate.
 ```sh
 'mobile' => 'required|UK-mobilecode'
 ```
-
-## Translations
-Publish the translations with the following command.
-```bash
-php artisan vendor:publish --provider="Dinushchathurya\UKMobilecodeValidator\MobilecodeValidatorServiceProvider" --tag="translations"
-```
-You can now update the validation message in the ```resources/lang/vendor/mobile-validator``` folder.
-
 
 ## Contributing
 
