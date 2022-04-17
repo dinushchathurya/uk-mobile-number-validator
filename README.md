@@ -58,6 +58,7 @@ Add the ```UK-mobilecode``` rule to the field you want to validate.
 +44 07222 555555
 
 (+447222) 555555
+
 ```
 
 ## Contributing
