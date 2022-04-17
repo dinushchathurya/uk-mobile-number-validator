@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Dinushchathurya\\UKMobilecodeValidator\\UKMobilecodeValidator"
+                "Dinushchathurya\\UKMobilecodeValidator\\MobilecodeValidatorServiceProvider"
             ]
         }
     }
