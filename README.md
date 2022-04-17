@@ -40,7 +40,7 @@ Add the ```UK-mobilecode``` rule to the field you want to validate.
 
 ## Example 
 
-<li>All this will match</li>
+<li>All this will match</li><br>
 
 ```
 07222 555555
@@ -50,7 +50,7 @@ Add the ```UK-mobilecode``` rule to the field you want to validate.
 +44 7222 555 555
 ```
 
-<li>All this won't match</li>
+<li>All this won't match</li><br>
 
 ```
 7222 555555
@@ -58,7 +58,6 @@ Add the ```UK-mobilecode``` rule to the field you want to validate.
 +44 07222 555555
 
 (+447222) 555555
-
 ```
 
 ## Contributing
