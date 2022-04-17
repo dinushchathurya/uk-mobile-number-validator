@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.0.0-blue">
-    <img alt="Scrutinizer build (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/build/g/dinushchathurya/uk-mobile-number-validator/main">
-    <img alt="Scrutinizer code quality (GitHub/Bitbucket)" src="https://scrutinizer-ci.com/g/dinushchathurya/uk-mobile-number-validator/badges/quality-score.png?b=main">
+    <img alt="Scrutinizer build (GitHub/Bitbucket)" src="https://scrutinizer-ci.com/g/dinushchathurya/uk-mobile-number-validator/badges/build.png?b=master">
+    <img alt="Scrutinizer code quality (GitHub/Bitbucket)" src="https://scrutinizer-ci.com/g/dinushchathurya/uk-mobile-number-validator/badges/quality-score.png?b=master">
     <img src="https://img.shields.io/badge/dependencies-up%20to%20date-orange">
     <img src="https://img.shields.io/badge/coverage-100%25-yellowgreen">
     <img src="https://img.shields.io/badge/rating-★★★★★-brightgreen">
