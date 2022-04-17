@@ -18,6 +18,7 @@
 <ol>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#example">Example</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#author">Author</a></li>
     <li><a href="#license">License</a></li>
@@ -35,6 +36,28 @@ Add the ```UK-mobilecode``` rule to the field you want to validate.
 
 ```sh
 'mobile' => 'required|UK-mobilecode'
+```
+
+## Example 
+
+<li>All this will match</li>
+
+```
+07222 555555
+
+(07222) 555555
+
++44 7222 555 555
+```
+
+<li>All this won't match</li>
+
+```
+7222 555555
+
++44 07222 555555
+
+(+447222) 555555
 ```
 
 ## Contributing
